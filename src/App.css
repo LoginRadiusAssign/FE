@@ -1,0 +1,13 @@
+/* Additional custom styles if needed */
+.App {
+  text-align: center;
+}
+
+/* Smooth transitions */
+input:focus {
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  transition: all 0.2s ease;
+}
